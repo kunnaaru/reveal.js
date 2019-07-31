@@ -9,6 +9,18 @@
 		<link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/reveal.css">
 		<link rel="stylesheet" href="css/theme/black.css">
+		<link rel="stylesheet" href="css/fonts/fonts.css">
+		<style>
+			@font-face{
+				font-family:MV_Typewriter;
+				font-style:normal;
+				font-weight:400;
+				src:url(css/fonts/mvtyper.ttf)
+			}
+			section{
+				font-family: MV_Typewriter, Cairo;
+			}
+		</style>
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/monokai.css">
@@ -25,8 +37,13 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
+				<section>އިތިއޯޕިއާގައި 12 ގަޑިއިރުތެރޭ 350 މިލިއަން ގަސް އިންދައިފި</section>
+				<section>
+					<p>الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ - 1:2</p>
+					<p class='fragment'>
+						رحمن ވަންތަ رحيم ވަންތަ اللَّه ގެ اسم ފުޅުން ފަށައިގަންނަމެވެ.
+					</p>
+				</section>
 			</div>
 		</div>
 
@@ -37,11 +54,20 @@
 			// - https://github.com/hakimel/reveal.js#configuration
 			// - https://github.com/hakimel/reveal.js#dependencies
 			Reveal.initialize({
+				rtl: true,
+				multiplex: {
+					secret: '15645362892939768511', // Obtained from the socket.io server. Gives this (the master) control of the presentation
+					id: '85552c7cbc886aed', // Obtained from socket.io server
+					url: 'http://localhost:1948/' // Location of socket.io server
+				},
 				dependencies: [
 					{ src: 'plugin/markdown/marked.js' },
 					{ src: 'plugin/markdown/markdown.js' },
 					{ src: 'plugin/notes/notes.js', async: true },
-					{ src: 'plugin/highlight/highlight.js', async: true }
+					{ src: 'plugin/highlight/highlight.js', async: true },
+					{ src: 'socket.io/socket.io.js', async: true },
+					{ src: 'plugin/notes-server/client.js', async: true },
+					{ src: 'plugin/multiplex/master.js', async: true },
 				]
 			});
 		</script>

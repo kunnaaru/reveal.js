@@ -1,0 +1,241 @@
+@font-face {
+    font-family: 'Amiri';
+    font-style: normal;
+    font-weight: 400;
+    src: url(Amiri_400_normal.eot); /* http://fonts.gstatic.com/s/amiri/v12/J7aRnpd8CGxBHpUutLc.eot */
+    src: local('☺'),
+        url(Amiri_400_normal.eot?#iefix) format('embedded-opentype'), /* http://fonts.gstatic.com/s/amiri/v12/J7aRnpd8CGxBHpUutLc.eot */
+        url(Amiri_400_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/amiri/v12/J7aRnpd8CGxBHpUutLM.woff2 */
+        url(Amiri_400_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/amiri/v12/J7aRnpd8CGxBHpUutLU.woff */
+        url(Amiri_400_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/amiri/v12/J7aRnpd8CGxBHpUutLYS7JNK.ttf */
+        url(Amiri_400_normal.svg#Amiri_400_normal) format('svg'); /* http://fonts.gstatic.com/l/font?kit=J7aRnpd8CGxBHpUutLQ&skey=159039cc026b7e65&v=v12#Amiri */
+
+    }
+@font-face {
+    font-family: 'Cairo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(Cairo_400_normal.eot); /* http://fonts.gstatic.com/s/cairo/v5/SLXGc1nY6HkvalIhTp8.eot */
+    src: local('☺'),
+        url(Cairo_400_normal.eot?#iefix) format('embedded-opentype'), /* http://fonts.gstatic.com/s/cairo/v5/SLXGc1nY6HkvalIhTp8.eot */
+        url(Cairo_400_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/cairo/v5/SLXGc1nY6HkvalIhTps.woff2 */
+        url(Cairo_400_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/cairo/v5/SLXGc1nY6HkvalIhTp0.woff */
+        url(Cairo_400_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/cairo/v5/SLXGc1nY6HkvalIhTp6mxdt0.ttf */
+        url(Cairo_400_normal.svg#Cairo_400_normal) format('svg'); /* http://fonts.gstatic.com/l/font?kit=SLXGc1nY6HkvalIhTpw&skey=ee6e3b9105e1a754&v=v5#Cairo */
+}
+@font-face {
+    font-family: 'Tajawal';
+    font-style: normal;
+    font-weight: 400;
+    src: url(Tajawal_400_normal.eot); /* http://fonts.gstatic.com/s/tajawal/v2/Iura6YBj_oCad4k1nzGBDw.eot */
+    src: local('☺'),
+        url(Tajawal_400_normal.eot?#iefix) format('embedded-opentype'), /* http://fonts.gstatic.com/s/tajawal/v2/Iura6YBj_oCad4k1nzGBDw.eot */
+        url(Tajawal_400_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/tajawal/v2/Iura6YBj_oCad4k1nzGBCw.woff2 */
+        url(Tajawal_400_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/tajawal/v2/Iura6YBj_oCad4k1nzGBDQ.woff */
+        url(Tajawal_400_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/tajawal/v2/Iura6YBj_oCad4k1nzGBDpxLhLE.ttf */
+        url(Tajawal_400_normal.svg#Tajawal_400_normal) format('svg'); /* http://fonts.gstatic.com/l/font?kit=Iura6YBj_oCad4k1nzGBDA&skey=549d92590736b326&v=v2#Tajawal */
+}
+@font-face {
+    font-family: 'Amiri';
+    font-style: normal;
+    font-weight: 400;
+    src: url(Amiri_400_normal.eot); /* http://fonts.gstatic.com/s/amiri/v12/J7aRnpd8CGxBHqUo.eot */
+    src: local('☺'),
+        url(Amiri_400_normal.eot?#iefix) format('embedded-opentype'), /* http://fonts.gstatic.com/s/amiri/v12/J7aRnpd8CGxBHqUo.eot */
+        url(Amiri_400_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/amiri/v12/J7aRnpd8CGxBHqUs.woff2 */
+        url(Amiri_400_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/amiri/v12/J7aRnpd8CGxBHqUq.woff */
+        url(Amiri_400_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/amiri/v12/J7aRnpd8CGxBHqUpvrQw7g.ttf */
+        url(Amiri_400_normal.svg#Amiri_400_normal) format('svg'); /* http://fonts.gstatic.com/l/font?kit=J7aRnpd8CGxBHqUr&skey=159039cc026b7e65&v=v12#Amiri */
+}
+@font-face {
+    font-family: 'Cairo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(Cairo_400_normal.eot); /* http://fonts.gstatic.com/s/cairo/v5/SLXGc1nY6HkvamIn.eot */
+    src: local('☺'),
+        url(Cairo_400_normal.eot?#iefix) format('embedded-opentype'), /* http://fonts.gstatic.com/s/cairo/v5/SLXGc1nY6HkvamIn.eot */
+        url(Cairo_400_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/cairo/v5/SLXGc1nY6HkvamIj.woff2 */
+        url(Cairo_400_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/cairo/v5/SLXGc1nY6HkvamIl.woff */
+        url(Cairo_400_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/cairo/v5/SLXGc1nY6HkvamImRJyExw.ttf */
+        url(Cairo_400_normal.svg#Cairo_400_normal) format('svg'); /* http://fonts.gstatic.com/l/font?kit=SLXGc1nY6HkvamIk&skey=ee6e3b9105e1a754&v=v5#Cairo */
+}
+@font-face {
+    font-family: 'Tajawal';
+    font-style: normal;
+    font-weight: 400;
+    src: url(Tajawal_400_normal.eot); /* http://fonts.gstatic.com/s/tajawal/v2/Iura6YBj_oCad4k1rzc.eot */
+    src: local('☺'),
+        url(Tajawal_400_normal.eot?#iefix) format('embedded-opentype'), /* http://fonts.gstatic.com/s/tajawal/v2/Iura6YBj_oCad4k1rzc.eot */
+        url(Tajawal_400_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/tajawal/v2/Iura6YBj_oCad4k1rzM.woff2 */
+        url(Tajawal_400_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/tajawal/v2/Iura6YBj_oCad4k1rzU.woff */
+        url(Tajawal_400_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/tajawal/v2/Iura6YBj_oCad4k1rzaLDL5J.ttf */
+        url(Tajawal_400_normal.svg#Tajawal_400_normal) format('svg'); /* http://fonts.gstatic.com/l/font?kit=Iura6YBj_oCad4k1rzQ&skey=549d92590736b326&v=v2#Tajawal */
+}
+@font-face {
+    font-family: 'Amiri';
+    font-style: italic;
+    font-weight: 400;
+    src: url(Amiri_400_italic.eot); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Amiri_400_italic.eot?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Amiri_400_italic.woff2) format('woff2'), /* http://fonts.gstatic.com/s/amiri/v12/J7afnpd8CGxBHpUrtLM.woff2 */
+        url(Amiri_400_italic.woff) format('woff'), /* http://fonts.gstatic.com/s/amiri/v12/J7afnpd8CGxBHpUrtLU.woff */
+        url(Amiri_400_italic.ttf) format('truetype'), /* http://fonts.gstatic.com/s/amiri/v12/J7afnpd8CGxBHpUrtLYS7JNK.ttf */
+        url(Amiri_400_italic.svg#Amiri_400_italic) format('svg'); /* {{svg-gf-url}} */
+}
+@font-face {
+    font-family: 'Amiri';
+    font-style: italic;
+    font-weight: 700;
+    src: url(Amiri_700_italic.eot); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Amiri_700_italic.eot?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Amiri_700_italic.woff2) format('woff2'), /* http://fonts.gstatic.com/s/amiri/v12/J7aanpd8CGxBHpUrjAo9zp4.woff2 */
+        url(Amiri_700_italic.woff) format('woff'), /* http://fonts.gstatic.com/s/amiri/v12/J7aanpd8CGxBHpUrjAo9zpg.woff */
+        url(Amiri_700_italic.ttf) format('truetype'), /* http://fonts.gstatic.com/s/amiri/v12/J7aanpd8CGxBHpUrjAo9zptgGDAb.ttf */
+        url(Amiri_700_italic.svg#Amiri_700_italic) format('svg'); /* {{svg-gf-url}} */
+}
+@font-face {
+    font-family: 'Amiri';
+    font-style: normal;
+    font-weight: 700;
+    src: url(Amiri_700_normal.eot); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Amiri_700_normal.eot?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Amiri_700_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/amiri/v12/J7acnpd8CGxBHp2VkZY9.woff2 */
+        url(Amiri_700_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/amiri/v12/J7acnpd8CGxBHp2VkZY7.woff */
+        url(Amiri_700_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/amiri/v12/J7acnpd8CGxBHp2VkZY4xJlCGg.ttf */
+        url(Amiri_700_normal.svg#Amiri_700_normal) format('svg'); /* {{svg-gf-url}} */
+}
+@font-face {
+    font-family: 'Cairo';
+    font-style: normal;
+    font-weight: 200;
+    src: url(Cairo_200_normal.eot); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Cairo_200_normal.eot?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Cairo_200_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/cairo/v5/SLXLc1nY6Hkvalrub76J.woff2 */
+        url(Cairo_200_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/cairo/v5/SLXLc1nY6Hkvalrub76P.woff */
+        url(Cairo_200_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/cairo/v5/SLXLc1nY6Hkvalrub76M7dF8aQ.ttf */
+        url(Cairo_200_normal.svg#Cairo_200_normal) format('svg'); /* {{svg-gf-url}} */
+}
+@font-face {
+    font-family: 'Cairo';
+    font-style: normal;
+    font-weight: 300;
+    src: url(Cairo_300_normal.eot); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Cairo_300_normal.eot?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Cairo_300_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/cairo/v5/SLXLc1nY6HkvalqKbL6J.woff2 */
+        url(Cairo_300_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/cairo/v5/SLXLc1nY6HkvalqKbL6P.woff */
+        url(Cairo_300_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/cairo/v5/SLXLc1nY6HkvalqKbL6M7dF8aQ.ttf */
+        url(Cairo_300_normal.svg#Cairo_300_normal) format('svg'); /* {{svg-gf-url}} */
+}
+@font-face {
+    font-family: 'Cairo';
+    font-style: normal;
+    font-weight: 600;
+    src: url(Cairo_600_normal.eot); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Cairo_600_normal.eot?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Cairo_600_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/cairo/v5/SLXLc1nY6Hkvalr-ar6J.woff2 */
+        url(Cairo_600_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/cairo/v5/SLXLc1nY6Hkvalr-ar6P.woff */
+        url(Cairo_600_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/cairo/v5/SLXLc1nY6Hkvalr-ar6M7dF8aQ.ttf */
+        url(Cairo_600_normal.svg#Cairo_600_normal) format('svg'); /* {{svg-gf-url}} */
+}
+@font-face {
+    font-family: 'Cairo';
+    font-style: normal;
+    font-weight: 700;
+    src: url(Cairo_700_normal.eot); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Cairo_700_normal.eot?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Cairo_700_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/cairo/v5/SLXLc1nY6Hkvalqaa76J.woff2 */
+        url(Cairo_700_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/cairo/v5/SLXLc1nY6Hkvalqaa76P.woff */
+        url(Cairo_700_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/cairo/v5/SLXLc1nY6Hkvalqaa76M7dF8aQ.ttf */
+        url(Cairo_700_normal.svg#Cairo_700_normal) format('svg'); /* {{svg-gf-url}} */
+}
+@font-face {
+    font-family: 'Cairo';
+    font-style: normal;
+    font-weight: 900;
+    src: url(Cairo_900_normal.eot); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Cairo_900_normal.eot?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Cairo_900_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/cairo/v5/SLXLc1nY6Hkvalqiab6J.woff2 */
+        url(Cairo_900_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/cairo/v5/SLXLc1nY6Hkvalqiab6P.woff */
+        url(Cairo_900_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/cairo/v5/SLXLc1nY6Hkvalqiab6M7dF8aQ.ttf */
+        url(Cairo_900_normal.svg#Cairo_900_normal) format('svg'); /* {{svg-gf-url}} */
+}
+@font-face {
+    font-family: 'Tajawal';
+    font-style: normal;
+    font-weight: 200;
+    src: url(Tajawal_200_normal.eot); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Tajawal_200_normal.eot?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Tajawal_200_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/tajawal/v2/Iurf6YBj_oCad4k1l_6gLrM.woff2 */
+        url(Tajawal_200_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/tajawal/v2/Iurf6YBj_oCad4k1l_6gLrU.woff */
+        url(Tajawal_200_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/tajawal/v2/Iurf6YBj_oCad4k1l_6gLrZjjrlI.ttf */
+        url(Tajawal_200_normal.svg#Tajawal_200_normal) format('svg'); /* {{svg-gf-url}} */
+}
+@font-face {
+    font-family: 'Tajawal';
+    font-style: normal;
+    font-weight: 300;
+    src: url(Tajawal_300_normal.eot); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Tajawal_300_normal.eot?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Tajawal_300_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/tajawal/v2/Iurf6YBj_oCad4k1l5qjLrM.woff2 */
+        url(Tajawal_300_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/tajawal/v2/Iurf6YBj_oCad4k1l5qjLrU.woff */
+        url(Tajawal_300_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/tajawal/v2/Iurf6YBj_oCad4k1l5qjLrZjjrlI.ttf */
+        url(Tajawal_300_normal.svg#Tajawal_300_normal) format('svg'); /* {{svg-gf-url}} */
+}
+@font-face {
+    font-family: 'Tajawal';
+    font-style: normal;
+    font-weight: 500;
+    src: url(Tajawal_500_normal.eot); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Tajawal_500_normal.eot?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Tajawal_500_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/tajawal/v2/Iurf6YBj_oCad4k1l8KiLrM.woff2 */
+        url(Tajawal_500_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/tajawal/v2/Iurf6YBj_oCad4k1l8KiLrU.woff */
+        url(Tajawal_500_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/tajawal/v2/Iurf6YBj_oCad4k1l8KiLrZjjrlI.ttf */
+        url(Tajawal_500_normal.svg#Tajawal_500_normal) format('svg'); /* {{svg-gf-url}} */
+}
+@font-face {
+    font-family: 'Tajawal';
+    font-style: normal;
+    font-weight: 700;
+    src: url(Tajawal_700_normal.eot); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Tajawal_700_normal.eot?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Tajawal_700_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/tajawal/v2/Iurf6YBj_oCad4k1l4qkLrM.woff2 */
+        url(Tajawal_700_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/tajawal/v2/Iurf6YBj_oCad4k1l4qkLrU.woff */
+        url(Tajawal_700_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/tajawal/v2/Iurf6YBj_oCad4k1l4qkLrZjjrlI.ttf */
+        url(Tajawal_700_normal.svg#Tajawal_700_normal) format('svg'); /* {{svg-gf-url}} */
+}
+@font-face {
+    font-family: 'Tajawal';
+    font-style: normal;
+    font-weight: 800;
+    src: url(Tajawal_800_normal.eot); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Tajawal_800_normal.eot?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Tajawal_800_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/tajawal/v2/Iurf6YBj_oCad4k1l5anLrM.woff2 */
+        url(Tajawal_800_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/tajawal/v2/Iurf6YBj_oCad4k1l5anLrU.woff */
+        url(Tajawal_800_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/tajawal/v2/Iurf6YBj_oCad4k1l5anLrZjjrlI.ttf */
+        url(Tajawal_800_normal.svg#Tajawal_800_normal) format('svg'); /* {{svg-gf-url}} */
+}
+@font-face {
+    font-family: 'Tajawal';
+    font-style: normal;
+    font-weight: 900;
+    src: url(Tajawal_900_normal.eot); /* {{embedded-opentype-gf-url}} */
+    src: local('☺'),
+        url(Tajawal_900_normal.eot?#iefix) format('embedded-opentype'), /* {{embedded-opentype-gf-url}} */
+        url(Tajawal_900_normal.woff2) format('woff2'), /* http://fonts.gstatic.com/s/tajawal/v2/Iurf6YBj_oCad4k1l7KmLrM.woff2 */
+        url(Tajawal_900_normal.woff) format('woff'), /* http://fonts.gstatic.com/s/tajawal/v2/Iurf6YBj_oCad4k1l7KmLrU.woff */
+        url(Tajawal_900_normal.ttf) format('truetype'), /* http://fonts.gstatic.com/s/tajawal/v2/Iurf6YBj_oCad4k1l7KmLrZjjrlI.ttf */
+        url(Tajawal_900_normal.svg#Tajawal_900_normal) format('svg'); /* {{svg-gf-url}} */
+}
